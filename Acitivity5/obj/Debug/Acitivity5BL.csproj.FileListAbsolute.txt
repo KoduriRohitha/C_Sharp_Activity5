@@ -1,0 +1,2 @@
+C:\Users\user\Desktop\C#\Acitivity5\Acitivity5\obj\Debug\Acitivity5BL.csproj.AssemblyReference.cache
+C:\Users\user\Desktop\C#\Acitivity5\Acitivity5\obj\Debug\Acitivity5BL.csproj.CoreCompileInputs.cache
